@@ -5,4 +5,3 @@ on:
 jobs:
   run-npm-test:
     uses: agrandmaitre/github_action_template/.github/workflows/ex4_call.yml@main
-
